@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "image": "https://github.com/jpdevspace/ReactJS_ClickGame/raw/master/src/imgs/z_cowboy.png",
+        "color": "red"
+    },
+    {
+        "id": 2,
+        "image": "https://github.com/jpdevspace/ReactJS_ClickGame/raw/master/src/imgs/z_digger.png",
+        "color": "blue"
+    },
+    {
+        "id": 3,
+        "image": "https://github.com/jpdevspace/ReactJS_ClickGame/raw/master/src/imgs/z_jetpack.png",
+        "color": "black"
+    },
+    {
+        "id": 4,
+        "image": "https://github.com/jpdevspace/ReactJS_ClickGame/raw/master/src/imgs/z_pachy.png",
+        "color": "gray"
+    },
+    {
+        "id": 5,
+        "image": "https://github.com/jpdevspace/ReactJS_ClickGame/raw/master/src/imgs/z_pirate.png",
+        "color": "green"
+    },
+    {
+        "id": 6,
+        "image": "https://github.com/jpdevspace/ReactJS_ClickGame/raw/master/src/imgs/z_punk.png",
+        "color": "coral"
+    },
+    {
+        "id": 7,
+        "image": "https://github.com/jpdevspace/ReactJS_ClickGame/raw/master/src/imgs/z_ski.png",
+        "color": "orange"
+    },
+    {
+        "id": 8,
+        "image": "https://github.com/jpdevspace/ReactJS_ClickGame/raw/master/src/imgs/z_wildwest.png",
+        "color": "purple"
+    },
+    {
+        "id": 9,
+        "image": "https://github.com/jpdevspace/ReactJS_ClickGame/raw/master/src/imgs/z_wiz.png",
+        "color": "aqua"
+    },
+    {
+        "id": 10,
+        "image": "https://github.com/jpdevspace/ReactJS_ClickGame/raw/master/src/imgs/z_harlem.png",
+        "color": "white"
+    },
+    {
+        "id": 11,
+        "image": "https://github.com/jpdevspace/ReactJS_ClickGame/raw/master/src/imgs/z_newspaper.png",
+        "color": "crimson"
+    },
+    {
+        "id": 12,
+        "image": "https://github.com/jpdevspace/ReactJS_ClickGame/raw/master/src/imgs/z_suit.png",
+        "color": "brown"
+    }
+]
